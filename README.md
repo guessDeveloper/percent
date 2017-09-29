@@ -9,3 +9,5 @@ per // 进度百分比<br>
 timer // 动画时间 默认0.8s<br>
 fontSize // 字体大小 默认14px<br>
 borderWidth // 进度条宽度 默认10px<br>
+# 效果
+<a href="https://guessdeveloper.github.io/percent/demo.html">在线地址</a>
